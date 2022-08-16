@@ -1,13 +1,7 @@
 <h1 align="center">Welcome to developer-portfolio 👋</h1>
-<a href="https://github.com/1hanzla100/developer-portfolio/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/1hanzla100/developer-portfolio"></a><a href="https://github.com/1hanzla100/developer-portfolio/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/1hanzla100/developer-portfolio"></a><a href="https://github.com/1hanzla100/developer-portfolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/1hanzla100/developer-portfolio"></a> <a href="https://github.com/1hanzla100/developer-portfolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/1hanzla100/developer-portfolio"></a>
 
 ## Software Developer Portfolio Template built with Next.js, bootstrap that helps you showcase your work and skills as a software developer.
 
-<p align="center">
-  <kbd>
-    <img src="https://github.com/1hanzla100/developer-portfolio/blob/master/picture.PNG"></img>
-  </kbd>
-</p>
 
 ## To view a live example, **[click here](https://developer-portfolio-1hanzla100.vercel.app/)**.
 
@@ -48,7 +42,7 @@ From your command line, clone and run developer-portolio:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/1hanzla100/developer-portfolio.git
+$ git clone
 
 # Go into the repository
 $ cd developer-portfolio
@@ -89,21 +83,13 @@ For adding emoji 😃 into the texts in `Portfolio.js`, use the `emoji()` functi
 ## Icons
 Iconify Icons are used in skill section. You can find all the icons here: [Iconify](https://icon-sets.iconify.design/).
 
-## For the Future
-
-If you can help us with these. Please don't hesitate to open a [pull request](https://github.com/1hanzla100/developer-portfolio/pulls).
-
--   Enable Dark Mode
-
--   Add More Sections
-
 ## Author
 
-👤 **Hanzla Tauqeer**
+👤 **Usmonjonov Mirafzal**
 
 -   Website: https://hanzla.netlify.app
--   Github: [@1hanzla100](https://github.com/1hanzla100)
--   LinkedIn: [@1hanzla100](https://linkedin.com/in/1hanzla100)
+-   Github: [@Mirafzal0713](https://github.com/Mirafzal1307)
+-   LinkedIn: [@Mirafzal Usmonjonov](https://www.linkedin.com/in/mirafzal-usmonjonov-752138227/)
 
 ## Show your support
 
