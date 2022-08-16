@@ -144,12 +144,13 @@ export const projects = [
 	{
 		name: "Yengil Credit",
 		desc: "Get hands-on everything in technical products with Yengil Credit",
-		github: "https://yengilcredit.uz/",
+		link: "https://yengilcredit.uz/",
 	},
 	{
 		name: "DeliveryFood",
 		desc: "Now your reach to all your favorite food is just one touch apart",
 		github: "https://github.com/Mirafzal1307/DeliveryFood",
+		link: "https://delivery-food-one.vercel.app/"
 	},
 ];
 
