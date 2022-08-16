@@ -3,13 +3,9 @@
 ## Software Developer Portfolio Template built with Next.js, bootstrap that helps you showcase your work and skills as a software developer.
 
 
-## To view a live example, **[click here](https://developer-portfolio-1hanzla100.vercel.app/)**.
+## To view a live example, **[click here](https://portfolio-umm-uzaffarovich.vercel.app/)**.
 
 Just Edit `portfolio.js` to get your personal portfolio. Feel free to use it as-is or customize it as much as you want.
-
-But if you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/1hanzla100/developer-portfolio/issues).
-
-If you created something awesome and want to contribute then feel free to open an [pull request](https://github.com/1hanzla100/developer-portfolio/pulls).
 
 
 ## Sections
@@ -87,7 +83,7 @@ Iconify Icons are used in skill section. You can find all the icons here: [Iconi
 
 👤 **Usmonjonov Mirafzal**
 
--   Website: https://hanzla.netlify.app
+-   Website: https://portfolio-umm-uzaffarovich.vercel.app/
 -   Github: [@Mirafzal0713](https://github.com/Mirafzal1307)
 -   LinkedIn: [@Mirafzal Usmonjonov](https://www.linkedin.com/in/mirafzal-usmonjonov-752138227/)
 

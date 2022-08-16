@@ -133,8 +133,8 @@ export const projects = [
 	{
 		name: "developer-portfolio",
 		desc: "Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.",
-		github: "https://github.com/1hanzla100/developer-portfolio",
-		link: "https://developer-portfolio-1hanzla100.vercel.app/",
+		github: "https://github.com/Mirafzal1307/PortfolioUMMuzaffarovich",
+		link: "https://portfolio-umm-uzaffarovich.vercel.app/",
 	},
 	{
 		name: "Olmaliq Savdo",
@@ -173,7 +173,7 @@ export const seoData = {
 		"A passionate Fronend Web Developer",
 	author: "Usmonjonov Mirafzal",
 	image: "https://avatars.githubusercontent.com/u/90593555?v=4",
-	url: "https://developer-portfolio-1hanzla100.vercel.app",
+	url: "https://portfolio-umm-uzaffarovich.vercel.app/",
 	keywords: [
 		"Mirafzal",
 		"Usmonjonov Mirafzal",
