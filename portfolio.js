@@ -4,9 +4,9 @@ export const greetings = {
 	name: "U.M.muzaffarovich",
 	title: "Hi all, I'm Mirafzal",
 	description:
-		"I'm passionate Frontend developer in developing real-world projects (personal, business,  e-commerce web applications). My purpose is to work on large international projects and enhance my experience and knowledge.",
+		"With a background in JavaScript and experience in Vue.js and React.js, Mirafzal has honed his skills over the past 3 years and worked on more than 20 projects. In addition to his professional activities, Mirafzal is a tech-savvy individual who enjoys playing the piano in his spare time.",
 	resumeLink:
-		"https://drive.google.com/file/d/16jQmWq3TeLhLIF0M82rPm6h2VCdzFDA5/view",
+		"https://drive.google.com/file/d/1vzUlosNgliP0MnstJ5Wf22SufkqpjKr1/view?usp=sharing",
 };
 
 export const openSource = {
@@ -17,8 +17,6 @@ export const contact = {};
 
 export const socialLinks = {
 	facebook: "https://www.facebook.com/profile.php?id=100074563819796",
-	instagram: "https://www.instagram.com/u.m.muzaffarovich/",
-	twitter: "https://twitter.com/U_Mirafzal",
 	github: "https://github.com/Mirafzal1307",
 	linkedin: "https://www.linkedin.com/in/mirafzal-usmonjonov-752138227/",
 };
@@ -31,15 +29,7 @@ export const skillsSection = {
 		{
 			title: "FRONTEND WEB Development",
 			lottieAnimationFile: "/lottie/skills/fullstack.json", // Path of Lottie Animation JSON File
-			skills: [
-				emoji(
-					"⚡ Building responsive Single-Page-Apps (SPA) & PWA in React.js And Vue.js"
-				),
-				emoji("⚡ Building responsive static websites using Next.js"),
-				emoji(
-					"⚡ Building RESTful APIs"
-				),
-			],
+			
 			softwareSkills: [
 				{
 					skillName: "HTML-5",
@@ -54,33 +44,10 @@ export const skillsSection = {
 					fontAwesomeClassname: "logos:javascript",
 				},
 				{
-					skillName: "Reactjs",
-					fontAwesomeClassname: "vscode-icons:file-type-reactjs",
-				},
-				{
-					skillName: "Nextjs",
-					fontAwesomeClassname: "vscode-icons:file-type-light-next",
-				},
-				{
-					skillName: "Redux",
-					fontAwesomeClassname: "logos:redux",
-				},
-				{
-					skillName: "NPM",
-					fontAwesomeClassname: "logos:npm-icon",
-				},
-				{
-					skillName: "Yarn",
-					fontAwesomeClassname: "logos:yarn",
-				},
-				{
 					skillName: "Vue",
 					fontAwesomeClassname: "logos:vue",
 				},
-				{
-					skillName: "Material",
-					fontAwesomeClassname: "logos:material-ui",
-				},
+			
 				{
 					skillName: "Nuxtjs",
 					fontAwesomeClassname: "logos:nuxt",
@@ -107,65 +74,76 @@ export const SkillBars = [
 
 export const educationInfo = [
 	{
-		schoolName: "Cambirdge International University In Tashkent",
+		schoolName: "MU University In Tashkent",
 		subHeader: "Bachelor of Science in Computer Science",
-		duration: "September 2022 - April 2025",
-		desc: "Participated in the research of XXX and published 3 papers.",
-		grade: "Grade A",
-		descBullets: [
-			"Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit",
-			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-		],
+		duration: "September 2022 - April 2023",
+	
+	
+	},
+	{
+		schoolName: "Lincoln Univesity Collage In Malaysia",
+		subHeader: "Bachelor of Science in Computer Science",
+		duration: "September 2024 - April 2028",
+	
 	},
 ];
 
 export const experience = [
 	{
-		role: "Frontend Developer",
+		role: "Frontend developer Internship ",
+		company: "Co-Learning Center ",
+		companylogo: "/img/icons/common/Co-learning center.jpg",
+		date: "Novomber 2023 – February 2024",
+		desc: "Reduced load times by optimizing images, code minification, and implementing caching techniques. Enhanced mobile responsiveness for better user access across various devices.",
+	},
+	{
+		role: "Frontend Web Developer",
 		company: "Itech",
 		companylogo: "/img/icons/common/itech.jpg",
-		date: "September 2021 – Present",
-		desc: "I worked as frontend web developer to design web based admin dashboards for mulitple apps using  Material-UI, Typescript, Chart.js and some other libraries.",
+		date: "September 2021 – September 2022",
+		desc: "Optimized site content for mobile devices using responsive design techniques. Improved website accessibility by implementing best practices for ADA compliance.",
+	},
+	{
+		role: "Frontend Web Developer",
+		company: "MKBANK ",
+		companylogo: "/img/icons/common/MKBANK.png",
+		date: "October 2022 – June 2024",
+		desc: "Maintained consistency in branding across multiple platforms by developing reusable UI components Resolved front-end bugs promptly, ensuring optimal website performance at all times. ",
+	},
+
+	{
+		role: "Frontend Web Developer",
+		company: "Lincoln University IT Department ",
+		companylogo: "/img/icons/common/LUC.png",
+		date: "July 2024 – Present",
+		desc: " Worked closely with UX/UI designer to translate their designs into functional web applications. Optimized websites for international audiences by integrating multi-lang features and localization settings",
 	},
 ];
 
 export const projects = [
 	{
-		name: "developer-portfolio",
-		desc: "Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.",
-		github: "https://github.com/Mirafzal1307/PortfolioUMMuzaffarovich",
-		link: "https://portfolio-umm-uzaffarovich.vercel.app/",
+		name: "Invoice app",
+		github: "https://github.com/Mirafzal1307/Invoice",
+		link: "https://invoice-phi-seven.vercel.app/",
 	},
 	{
-		name: "Olmaliq Savdo",
-		desc: "With Olaliq Savdo, it’s easy to find the products with the best price and ship them straight to your door.",
-		link: "https://shop.itechcompany.uz/en"
+		name: "Kanban pro",
+		github: "https://github.com/Mirafzal1307/Kanban_pro",
+		link: "https://kanban-pro-alpha.vercel.app/"
 	},
 	{
-		name: "Yengil Credit",
-		desc: "Get hands-on everything in technical products with Yengil Credit",
-		link: "https://yengilcredit.uz/",
+		name: "Metsenat Pro",
+		github: "https://github.com/Mirafzal1307/Metsenat_pro",
+		link: "https://metsenat-club-rho.vercel.app/",
 	},
 	{
-		name: "DeliveryFood",
-		desc: "Now your reach to all your favorite food is just one touch apart",
-		github: "https://github.com/Mirafzal1307/DeliveryFood",
-		link: "https://delivery-food-one.vercel.app/"
+		name: "77.uz",
+		github: "https://github.com/elzodxon/77.uz_frontend",
+		link: "hthttps://77-uz-frontend.vercel.app/"
 	},
 ];
 
-export const feedbacks = [
-	{
-		name: "John Smith",
-		feedback:
-			"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.",
-	},
-	{
-		name: "John Smith",
-		feedback:
-			"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.",
-	},
-];
+
 
 // See object prototype on SEO.jsx page
 export const seoData = {

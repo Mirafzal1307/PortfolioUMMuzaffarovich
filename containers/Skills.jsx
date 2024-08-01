@@ -23,7 +23,7 @@ const Skills = () => {
 						<Col lg="6" className="order-1 order-lg-2">
 							<Fade right duration={2000}>
 								<h3 className="h3 mb-2">{section.title}</h3>
-								<div className="d-flex justify-content-center flex-wrap mb-2">
+								<div className="d-flex justify-content-center flex-wrap mb-2 ">
 									{section.softwareSkills.map((skill, i) => {
 										return (
 											<Fragment key={i}>
@@ -49,11 +49,11 @@ const Skills = () => {
 										);
 									})}
 								</div>
-								<div>
+								{/* <div>
 									{section.skills.map((skill, i) => {
 										return <p key={i}>{skill}</p>;
 									})}
-								</div>
+								</div> */}
 							</Fade>
 						</Col>
 					</Row>
